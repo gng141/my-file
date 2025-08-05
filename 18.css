@@ -1,0 +1,367 @@
+* {
+  margin: 0px;
+  font-family: "Source Sans Pro Topnav", sans-serif;
+}
+.first {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 70px;
+  font-family: "Source Sans Pro Topnav", sans-serif;
+}
+.second {
+  display: flex;
+}
+.fi {
+  padding: 8px 8px;
+  text-decoration: none;
+  border-radius: 40px;
+}
+.se:hover {
+  background-color: #04aa6d;
+  cursor: pointer;
+  .viv {
+    background-color: #04aa6d;
+    padding: 4px 15px 4px 40px;
+  }
+}
+.se {
+  display: flex;
+  padding: 16px 20px;
+  font-size: 16px;
+}
+.th:hover {
+  background-color: #dedcdc;
+  cursor: pointer;
+}
+.parent {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left {
+  margin-top: 5px;
+  display: flex;
+  padding: 8px 16px;
+  font-size: 16px;
+  border-radius: 40px;
+}
+.right {
+  padding: 8px 16px;
+  font-size: 16px;
+  display: flex;
+}
+.light {
+  display: flex;
+  padding: 8px 16px;
+  font-size: 16px;
+}
+.light:hover {
+  background-color: #f3f3f3;
+  cursor: pointer;
+  border-radius: 100px;
+}
+.bright {
+  display: flex;
+  color: white;
+
+  border-radius: 10px;
+  background-color: #04aa6d;
+  padding: 8px 16px;
+  font-size: 16px;
+}
+.bright:hover {
+  cursor: pointer;
+}
+.sight {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #282a35;
+  color: white;
+}
+.ti:hover {
+  cursor: pointer;
+  background-color: black;
+}
+.ti {
+  background-color: #282a35;
+  display: flex;
+  padding: 8px 16px;
+  font-size: 16px;
+}
+.main {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.extra {
+  background-color: #e7e9eb;
+  position: relative;
+  margin: 0px 70px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.limit:hover {
+  background-color: #cccccc;
+  cursor: pointer;
+}
+.limit {
+  padding: 4px 15px 4px 40px;
+}
+.lim {
+  margin: 40px 0px 0px 0px;
+  font-size: 42px;
+}
+.lig {
+  display: flex;
+  justify-content: space-between;
+}
+.lit {
+  margin: 40px 0px 0px 1000px;
+  background-color: #04aa6d;
+  cursor: pointer;
+  border: 2px solid #04aa6d;
+  padding: 14px 25px;
+  border-radius: 7px;
+  font-size: 15px;
+  color: white;
+}
+.lik {
+  margin: 40px 0px 0px 0px;
+  background-color: #04aa6d;
+  cursor: pointer;
+  border: 2px solid #04aa6d;
+  padding: 14px 25px;
+  border-radius: 7px;
+  font-size: 15px;
+  color: white;
+}
+.lip {
+  padding: 20px 0px 20px 15px;
+  font-size: 35px;
+}
+.lis {
+  background-color: #d9eee1;
+  margin-top: 30px;
+}
+.lin {
+  padding: 15px 0px 0px 15px;
+}
+.nim {
+  background-color: #04aa6d;
+  display: inline-block;
+  margin: 0px 100px 20px 20px;
+  cursor: pointer;
+  border: 2px solid #04aa6d;
+  padding: 14px 20px;
+  border-radius: 5px;
+  font-size: 15px;
+  color: white;
+}
+.be {
+  border-right: 1px solid #f3f3f3;
+  overflow-x: hidden;
+  position: relative;
+  overflow: auto;
+}
+hr {
+  background-color: #ededed;
+  border: 0;
+  border-top: 1px solid #eee;
+  margin: 30px 25px 30px 0px;
+}
+.liv {
+  padding: 40px 0px 20px 15px;
+  font-size: 25px;
+}
+.tit {
+  background-color: #e7e9eb;
+  margin: 20px 10px 0px 10px;
+}
+viv {
+  border-left: 4px solid #04aa6d;
+}
+.q {
+  background-color: white;
+  border-left: 4px solid #04aa6d;
+  margin: 0px 10px 0px 10px;
+}
+.nib {
+  background-color: #04aa6d;
+  display: inline-block;
+  margin: 50px 100px 20px 20px;
+  cursor: pointer;
+  border: 2px solid #04aa6d;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-size: 15px;
+  color: white;
+}
+.tib {
+  margin: 50px 10px 20px 10px;
+}
+.niy {
+  background-color: #e7e9eb;
+  display: inline-block;
+  margin: 50px 70px 20px 20px;
+  cursor: pointer;
+  border: 2px solid #e7e9eb;
+  padding: 7px 10px;
+  border-radius: 5px;
+  font-size: 15px;
+  color: black;
+}
+.niy:hover {
+  background-color: #04aa6d;
+}
+.bin {
+  background-color: #2d3748;
+  border: 2px solid #2d3748;
+  border-radius: 10px;
+}
+.liq {
+  padding: 40px 0px 20px 15px;
+  font-size: 35px;
+  text-align: center;
+  color: white;
+}
+.lic {
+  padding: 20px 0px 20px 15px;
+  text-align: center;
+  color: white;
+}
+.gig {
+  background-color: #459de7;
+  display: inline-block;
+  margin: 50px 100px 20px 20px;
+  cursor: pointer;
+  border: 2px solid #459de7;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-size: 15px;
+  color: white;
+}
+.pip {
+  background-color: #e7e9eb;
+  display: inline-block;
+  margin: 50px 70px 20px 0px;
+  cursor: pointer;
+  padding: 30px 120px;
+
+  border-radius: 5px;
+  font-size: 15px;
+  color: black;
+  text-align: center;
+  -webkit-text-size-adjust: 100%;
+}
+.pip:hover {
+  background-color: black;
+  color: white;
+}
+.pil {
+  background-color: #e7e9eb;
+  display: inline-block;
+  margin: 50px 70px 20px 25px;
+  cursor: pointer;
+  padding: 30px 120px;
+  border-radius: 5px;
+  font-size: 15px;
+  color: black;
+  text-align: center;
+  -webkit-text-size-adjust: 100%;
+}
+.pil:hover {
+  background-color: black;
+  color: white;
+}
+.pin {
+  background-color: #e7e9eb;
+  display: inline-block;
+  margin: 50px 70px 20px 20px;
+  cursor: pointer;
+  padding: 30px 120px;
+
+  border-radius: 5px;
+  font-size: 15px;
+  color: black;
+  text-align: center;
+  -webkit-text-size-adjust: 100%;
+}
+.pit {
+  background-color: #e7e9eb;
+  display: inline-block;
+  margin: 50px 70px 20px 25px;
+  cursor: pointer;
+  padding: 30px 117px;
+  -webkit-text-size-adjust: 100%;
+  border-radius: 5px;
+  font-size: 15px;
+  color: black;
+  text-align: center;
+}
+.pin:hover {
+  background-color: black;
+  color: white;
+}
+.pit:hover {
+  background-color: black;
+  color: white;
+}
+.lol {
+  background-color: #282a35;
+  border-radius: 10px;
+  position: relative;
+}
+.lop {
+  font-size: 45px;
+  color: white;
+  padding: 40px 0px 20px 15px;
+}
+.uo {
+  font-size: 30px;
+  color: white;
+  padding: 40px 0px 20px 15px;
+}
+.ml {
+  background-color: #04aa6d;
+  display: inline-block;
+  margin: 50px 100px 20px 20px;
+  cursor: pointer;
+  border: 2px solid #04aa6d;
+  padding: 20px 30px;
+  border-radius: 40px;
+  font-size: 17px;
+  color: white;
+}
+.sos {
+  position: absolute;
+  text-align: right;
+}
+.sop {
+  background-color: #04aa6d;
+  display: inline-block;
+  margin: 10px 0px 20px 600px;
+  cursor: pointer;
+  border: 2px solid #04aa6d;
+  padding: 90px 40px;
+  border-radius: 100000px;
+  font-size: 30px;
+  color: white;
+  text-align: right;
+}
+.fit {
+  width: 100%;
+  height: 100%;
+}
+.so {
+  display: none;
+}
+@media screen and (max-width: 350px) {
+  .so {
+    display: flex;
+  }
+  .extra {
+    display: none;
+  }
+}
